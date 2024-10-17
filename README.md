@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
+UPD на 17.10.2024;
+Исправлены некоторые недочеты, баги.
+Обновлена среда хранение файлов(Google Drive).
+
 UPD на 14.10.2024;
  
 Было добавлена информация страны и города в режиме наблюдения. (если плохая задержка, т.е большой пинг, может не циплять финд, не выводить информацию.)
