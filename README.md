@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=MODHELPS%DEV!)
 
 UPD на 17.10.2024;
 
