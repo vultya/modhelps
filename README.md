@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3])
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MODHELPS%20DEV)
 
 UPD на 17.10.2024;
 
